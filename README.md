@@ -24,4 +24,4 @@ To build the contracts and the unit tests:
 
 After build:
 * The contracts are built into a _bin/\<contract name\>_ folder in their respective directories.
-* Finally, simply use __clfsc__ to _set contract_ by pointing to the previously mentioned directory.
+* Finally, simply use __cldfc__ to _set contract_ by pointing to the previously mentioned directory.
